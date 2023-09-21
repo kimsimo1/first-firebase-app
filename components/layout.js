@@ -24,7 +24,7 @@ export default function Layout( { children, home }) {
       
     }
     <footer>
-    <p>I&apos;m the Footer</p>
+    <p>Footer</p>
     </footer>
   </div>
   );
