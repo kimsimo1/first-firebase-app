@@ -2,12 +2,12 @@
   {
     "id": 1,
     "owner": 4,
-    "snack": "cookies"
+    "snack": "bread"
   },
   {
     "id": 2,
     "owner": 4,
-    "snack": "chips"
+    "snack": "turkey"
   },
   {
     "id": 3,
@@ -22,7 +22,7 @@
   {
     "id": 5,
     "owner": 2,
-    "snack": "tofu"
+    "snack": "nuts"
   }
 ]
 

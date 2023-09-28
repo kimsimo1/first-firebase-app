@@ -9,7 +9,7 @@ export default function Layout( { children, home }) {
     </Head>
     <header>
     <nav>
-      <a href="https://www.santarosa.edu">Visit SRJC</a>
+      <a href="https://www.dragonmount.com">Two Rivers Residents</a>
     </nav>
     </header>
     <main>
